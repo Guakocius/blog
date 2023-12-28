@@ -8,4 +8,4 @@
 <h2>Contributing</h2>
 <p>I welcome contributions from the community.</p>
 <h2>Feedback</h2>
-<p>Your feedback is invaluable in shaping the future of this blog. Whether you have suggestions for content, notice a bug or simply want to share your thoughts, please don't hesitate to reach out via a GitHub PR</p>
+<p>Your feedback is invaluable in shaping the future of this blog. Whether you have suggestions for content, notice a bug or simply want to share your thoughts, please don't hesitate to reach out via a GitHub PR.</p>
