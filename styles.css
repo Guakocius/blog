@@ -1,0 +1,38 @@
+body {
+    background-color: grey;
+    color: white;
+}
+.link {
+    color: darkblue;
+    text-decoration: none;
+}
+#header-landing-page {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#header-landing-page-desc {
+
+}
+#btn-landing-page, .link-projects{
+    margin-top: 30px;
+    background: linear-gradient(to bottom right, rgb(90, 34, 139), rgb(107, 190, 220));
+    height: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 30px;
+
+}
+#btn-landing-page:hover, .link-projects:hover{
+    background: linear-gradient(to bottom right, rgb(196, 180, 84), rgb(0, 0, 128));
+}
+a {
+    text-decoration: none;
+}
+.link-projects{
+    color: #000000;
+}
+#img-index {
+    max-width: 600px;
+    max-height: 300px;
+}
