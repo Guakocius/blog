@@ -36,3 +36,12 @@ a {
     max-width: 600px;
     max-height: 300px;
 }
+#blogs {
+    margin-top: 60px;
+    margin-left: 50px;
+    border: 2px solid black;
+}
+h4 {
+    text-decoration: underline;
+    text-decoration-color: black;
+}
